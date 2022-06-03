@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Иван Кирпичников](https://up.htmlacademy.ru/javascript/26/user/1963875).
-* Наставник: `Неизвестно`.
+* Наставник: [Alex Elkin](https://htmlacademy.ru/profile/alex_elkin).
 
 ---
 
